@@ -4,7 +4,7 @@ meta_description: "D-32 Blog"
 markdown: redcarpet
 pygments: true
 logo: false
-paginate: 15
+paginate: 10
 
 baseurl:		'/Blog'
 url:            'http://blog.d-32.com'
