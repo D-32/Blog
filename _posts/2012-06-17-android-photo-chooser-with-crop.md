@@ -4,6 +4,7 @@ title:  "Android photo chooser with crop"
 date:   2012-06-17 00:00:00
 categories: Android
 ---
+In this post I'll show you how to open the default system photo chooser and also let the user crop the photo to the size you require.  
 Launch the photo chooser like this:
 
 	Intent intent = new Intent(Intent.ACTION_PICK,  android.provider.MediaStore.Images.Media.INTERNAL_CONTENT_URI);
