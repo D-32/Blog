@@ -1,0 +1,10 @@
+name: D-32 Blog
+meta_description: "D-32 Blog"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+url:            'http://blog.d-32.com'
+author:         'Dylan Marriott'
