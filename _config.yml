@@ -6,5 +6,6 @@ pygments: true
 logo: false
 paginate: 15
 
+baseurl:		'/Blog'
 url:            'http://blog.d-32.com'
 author:         'Dylan Marriott'
