@@ -6,6 +6,6 @@ highlighter: true
 logo: false
 paginate: 10
 
-baseurl:		'/Blog'
+baseurl:        ''
 url:            'http://blog.d-32.com'
 author:         'Dylan Marriott'
