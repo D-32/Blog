@@ -2,7 +2,6 @@ name: D-32 Blog
 meta_description: "D-32 Blog"
 
 markdown: redcarpet
-highlighter: true
 logo: false
 paginate: 10
 
